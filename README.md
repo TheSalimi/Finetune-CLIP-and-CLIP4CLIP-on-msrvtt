@@ -1,0 +1,1 @@
+# Finetune-CLIP-and-CLIP4CLIP-on-msrvtt
